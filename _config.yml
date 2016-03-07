@@ -1,0 +1,14 @@
+layout_spectrum: 0.1638298
+typography_spectrum: 0.6680851
+color:
+  saturation: 0.2893377
+  lightness: 0.8828562
+  brandStrength: 0.9361702
+  brandColors:
+    - '#020202'
+    - '#FFFFFF'
+    - '#D87864'
+    - '#5C5B5C'
+    - '#EA6502'
+  rhythmicContrast: 0.1547861
+name: Buta+Wagyu
